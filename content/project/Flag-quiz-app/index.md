@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Flag Quiz App"
-summary: ""
+summary: "An Android app that contains multiple quiz questions regarding national flags."
 authors: []
 tags: [Android]
 categories: []
@@ -42,7 +42,7 @@ slides: ""
 
 
 
-
+The flag quiz app contains 10 quizes in which the users choose which nation the flag belongs to. The welcome page allows the users to input their names. During the quiz, the users make their choice and the app will reveal the chosen answer. Correct answer will be marked in green while wrong answer will be marked in red. A progress bar will show how many questions have been answered. At the end page, the app will congratulate the user by finishing, summarize the number of correctly answered questions, and allow users to come back to the front page.
 
 {{< gallery album="gallery" >}}
 
