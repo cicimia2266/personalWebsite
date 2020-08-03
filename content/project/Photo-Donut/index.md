@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Photo Donut"
-summary: "Photo Donut is a social-focused photo-sharing application implemented with Django and python. It's a full-stack application that focused on both back-end application business logic and data handling, and front-end user interface."
+title: "PhotoDonut"
+summary: "PhotoDonut is a social-focused photo-sharing application implemented with Django and python. It's a full-stack application that focused on both back-end application business logic and data handling, and front-end user interface."
 authors: []
 tags: [Web]
 categories: []
@@ -44,7 +44,7 @@ slides: ""
 
 Designed and implemented a mini social-focused full stack django photo-sharing web application.
 
-\- The overall functionality of this full stack web application includes: authentication, authorization, follow/unfollow user, making posts, master/detail view of posts, etc.
+\- The overall functionality of this full stack web application includes: authentication, authorization, follow/unfollow user, creating posts, master/detail view of posts, etc.
 
 \- Designed and implemented the front end interface using html, bootstrap, javascript, allowing user to interact with the application for all mentioned modules.
 
