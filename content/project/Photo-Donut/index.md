@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "PhotoDonut"
-summary: "PhotoDonut is a social-focused photo-sharing application implemented with Django and python. It's a full-stack application that focused on both back-end application business logic and data handling, and front-end user interface."
+summary: "A social-focused photo-sharing web application implemented with Django and python. A full-stack application that focused on both back-end application business logic and data handling, and front-end user interface."
 authors: []
 tags: [Web]
 categories: []

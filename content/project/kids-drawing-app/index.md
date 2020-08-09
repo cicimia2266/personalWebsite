@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Kids Drawing App"
-summary: "Kids Drawing Android App with Kotlin. Customized User Interface for best experience. The app supports basic drawing with different colors and stroke width. More advanced features such as importing, exporting, and sharing image are also supported."
+summary: "Kids Drawing Android App with Kotlin that supports drawing with different colors and stroke width, importing, exporting, and sharing image."
 authors: []
 tags: [Android]
 categories: []
@@ -33,7 +33,9 @@ url_video: ""
 slides: ""
 ---
 
-In this project, I have designed and developed a Kids Drawing Android App with Kotlin. You will be able to customize your stoke width and paint colors, and undo your previous drawings. The app supports importing image so that you can sketch along with the picture of your choice. You are also able to export the drawing and share it with friends.
+
+
+In this project, I have designed and developed a Kids Drawing Android App with Kotlin. Users will be able to customize their stroke width and paint colors, and undo their previous drawings. The app supports importing image so that users can sketch along with the picture of their choices. Users are also able to export the drawing and share it with friends. 
 
 
 

@@ -97,7 +97,7 @@ phone = "(917) 318-8472"
 address = {city = "Fremont", region = "CA", postcode = "94555", country = "United States", country_code = "US"}
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.570848", longitude = "-122.041879"}
+coordinates = {latitude = "37.570", longitude = "-122.035"}
 
 
 
